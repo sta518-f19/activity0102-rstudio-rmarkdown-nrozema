@@ -1,6 +1,6 @@
 ---
-title: "Activity 1.2 - RStudio and R Markdown"
-author: "Bradford Dykes"
+title: "Activity 0102 - RStudio and R Markdown"
+author: "Nick Rozema"
 date: "8/26/2019"
 output: html_document
 ---
@@ -15,7 +15,7 @@ library(datasauRus)
 
 ### Exercise 1
 
-(Type your answer to Exercise 1 here. This exercise does not require any R code.)
+There are 1846 rows and 3 variables (columns). The variables are **dataset**, **x**, and **y**.
 
 ### Exercise 2
 
